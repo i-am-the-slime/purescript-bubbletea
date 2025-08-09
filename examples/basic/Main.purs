@@ -1,3 +1,13 @@
+{- 
+  This example demonstrates a complete Bubbletea application.
+  
+  To run this example:
+  1. Add purescript-bubbletea to your purescript-native project
+  2. Copy this file to your src/ directory  
+  3. Run with: spago run -m Main
+  
+  Or see it running in the midigo project: https://github.com/i-am-the-slime/midigo
+-}
 module Main where
 
 import Prelude

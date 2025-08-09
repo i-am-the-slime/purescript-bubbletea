@@ -105,6 +105,19 @@ This library works on all platforms supported by Go:
 - Windows
 - BSD variants
 
+## Quick Start
+
+1. **Add to your purescript-native project:**
+   ```yaml
+   # spago.yaml
+   dependencies:
+     - bubbletea: "https://github.com/i-am-the-slime/purescript-bubbletea.git"
+   ```
+
+2. **See `examples/basic/Main.purs` for a complete working example**
+
+3. **For a working demo, check out the [midigo project](https://github.com/i-am-the-slime/midigo) which includes bubbletea**
+
 ## Requirements
 
 - PureScript with purescript-native backend
